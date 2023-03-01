@@ -1,6 +1,9 @@
 # my-portfolio
 Project Title: Samuel Ray Odhiambo Portfolio Webpage
 
+url:
+https://srodhiambo22.github.io/my-portfolio/
+
 Contributors:
 - Samuel Ray Odhiambo
 
@@ -31,4 +34,4 @@ License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Acknowledgments
-A big appreciation to my instructor Denis Kiboi from Moringa school and my colleagues as wel.l
+A big appreciation to my instructor Denis Kiboi from Moringa school and my colleagues as well.
